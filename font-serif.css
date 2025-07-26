@@ -1,0 +1,135 @@
+/* IBM Plex Serif – Normal & Italic */
+@font-face {
+  font-family: 'IBM Plex Serif';
+  src: url('fonts/IBMPlexSerif-Thin.woff2') format('woff2');
+  font-weight: 100;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'IBM Plex Serif';
+  src: url('fonts/IBMPlexSerif-ThinItalic.woff2') format('woff2');
+  font-weight: 100;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'IBM Plex Serif';
+  src: url('fonts/IBMPlexSerif-ExtraLight.woff2') format('woff2');
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'IBM Plex Serif';
+  src: url('fonts/IBMPlexSerif-ExtraLightItalic.woff2') format('woff2');
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'IBM Plex Serif';
+  src: url('fonts/IBMPlexSerif-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'IBM Plex Serif';
+  src: url('fonts/IBMPlexSerif-LightItalic.woff2') format('woff2');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'IBM Plex Serif';
+  src: url('fonts/IBMPlexSerif-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'IBM Plex Serif';
+  src: url('fonts/IBMPlexSerif-Italic.woff2') format('woff2');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'IBM Plex Serif';
+  src: url('fonts/IBMPlexSerif-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'IBM Plex Serif';
+  src: url('fonts/IBMPlexSerif-MediumItalic.woff2') format('woff2');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'IBM Plex Serif';
+  src: url('fonts/IBMPlexSerif-SemiBold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'IBM Plex Serif';
+  src: url('fonts/IBMPlexSerif-SemiBoldItalic.woff2') format('woff2');
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'IBM Plex Serif';
+  src: url('fonts/IBMPlexSerif-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'IBM Plex Serif';
+  src: url('fonts/IBMPlexSerif-BoldItalic.woff2') format('woff2');
+  font-weight: 700;
+  font-style: italic;
+}
+
+/* IBM Plex Serif Pi – alle Gewichtungen */
+@font-face {
+  font-family: 'IBM Plex Serif Pi';
+  src: url('fonts/IBMPlexSerifPi-Thin.woff2') format('woff2');
+  font-weight: 100;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'IBM Plex Serif Pi';
+  src: url('fonts/IBMPlexSerifPi-ExtraLight.woff2') format('woff2');
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'IBM Plex Serif Pi';
+  src: url('fonts/IBMPlexSerifPi-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'IBM Plex Serif Pi';
+  src: url('fonts/IBMPlexSerifPi-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'IBM Plex Serif Pi';
+  src: url('fonts/IBMPlexSerifPi-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'IBM Plex Serif Pi';
+  src: url('fonts/IBMPlexSerifPi-SemiBold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'IBM Plex Serif Pi';
+  src: url('fonts/IBMPlexSerifPi-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
